@@ -47,7 +47,7 @@ router.post("/", async (req, res, next) => {
 
 
 router.get("/", (req, res, next) => {
-    res.stats(201).json({ status: 200, message: 'si' })
+    res.status(201).json({ status: 200, message: 'si' })
 
 });
 
