@@ -1,0 +1,22 @@
+.list {
+    display: flex;
+    color: white;
+    align-items: center;
+}
+
+.navcontainer {
+    background-color: black;
+}
+
+.listItem {
+    margin-inline: 25px;
+    font-family: SpaceGrotesk-Light;
+    color: #fff;
+    line-height: 1.2;
+    font-weight: 500;
+    font-size: 1.6em;
+}
+
+.listItem:hover{
+    color: rgb(156, 156, 156);
+}
