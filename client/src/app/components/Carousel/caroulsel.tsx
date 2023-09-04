@@ -8,7 +8,7 @@ function Carousel() {
 
   const images:string[] = [
     "https://i.ibb.co/HFws3z6/DF4-IPTXH6-RAJHBKE3-MUA25-REQU-1.jpg",
-    "https://i.ibb.co/wRdyTt5/LS7-MDTSQLJG3-LIINYRK3-L743-FY-1-1.jpg",
+    "https://i.ibb.co/YyPPrsr/LS7-MDTSQLJG3-LIINYRK3-L743-FY-2-1.jpg",
     "https://i.ibb.co/N6FTRpm/2-Santafe-de-Antioquia-Puente-De-Occidente.jpg",
     "https://i.ibb.co/Yh3Q1dx/lugares-turisticos-de-antioquia.jpg",
   ]

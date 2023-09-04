@@ -1,7 +1,7 @@
 import React from 'react'
 
-export default function About() {
+export default function Towns() {
     return (
-        <div>town</div>
-    )
+        <h1 style={{color:'white'}}>towns</h1>
+    ) 
 }
